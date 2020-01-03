@@ -8,3 +8,4 @@
 <description> A simple test app</description>
 <author>Lorenzo Short</author>
 <preference name="windows-identity-name" value="Lorenzoapp" />
+</widget>
