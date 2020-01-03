@@ -6,6 +6,10 @@
     version     = "1.0.0" >
 <name>Lorenzo's test app</name>
 <description> A simple test app</description>
-<author>Lorenzo Short</author>
+
+      <author href="https://github.com/enzoshort">
+      
+Lorenzo Short
+  </author>
 <preference name="windows-identity-name" value="Lorenzoapp" />
 </widget>
